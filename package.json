@@ -1,12 +1,12 @@
 {
-  "name": "SUHAS-MD-V8",
+  "name": "lunatic MD",
   "version": "1.5.0",
-  "description": "💞A WhatsApp bot created by Suhas Pathsindu🧚‍♂️",
+  "description": "💞A WhatsApp bot created by LUNATECH ",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUHAS-MD-V8",
     "stop": "pm2 stop SUHAS-MD-V8",
-    "restart": "pm2 restart SUHAS-MD-V8"
+    "restart": "pm2 restart lunatic MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
