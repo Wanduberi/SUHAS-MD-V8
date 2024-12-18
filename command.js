@@ -15,12 +15,12 @@
 
 
 
-// * Project name - SUHAS- MD 
-// * Author - Suhas Pathsindu
-// * Team - Suhas Bro 
+// * Project name - lunatic MD 
+// * Author - lunatic 
+// * Team - lunatech 
 // * Version - V2
 
-// World best and powerfull whatsapp user bot in Sri lanka
+// World best and powerfull whatsapp user bot in kenya 🇰🇪🇰🇪
 // 🧬©ꜱᴜʜᴀꜱ-ᴍᴅ ʙʏ ꜱᴜᴀʜꜱ ᴘᴀᴛʜꜱɪɴᴅᴜッ
 
 
